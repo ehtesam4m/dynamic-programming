@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace longest_common_subsequence
+namespace CSharp
 {
-    class Program
+  class Program
     {
         static void Main(string[] args)
         {
